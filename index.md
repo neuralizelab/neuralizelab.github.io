@@ -11,7 +11,7 @@ At Neuralize Lab, our mission is to harness the transformative power of artifici
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our research group is at the forefront of pioneering multimodal applications in healthcare and computer vision. We are integrating diverse data types—such as images, text, and sensor data—to enhance diagnostic accuracy and innovate patient care solutions using advanced AI techniques.
 
 {%
   include button.html
@@ -34,7 +34,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Our research group is at the forefront of pioneering multimodal applications in healthcare and computer vision. We are integrating diverse data types—such as images, text, and sensor data—to enhance diagnostic accuracy and innovate patient care solutions using advanced AI techniques.
+Explore our current projects which are in the developmental phase, where we are pushing the boundaries of AI in creating groundbreaking solutions.
 
 {%
   include button.html
@@ -59,7 +59,7 @@ Our research group is at the forefront of pioneering multimodal applications in 
 
 {% capture text %}
 
-Explore our current projects which are in the developmental phase, where we are pushing the boundaries of AI in creating groundbreaking solutions 
+Our team consists of a diverse group of skilled AI researchers, data scientists, and engineers dedicated to driving innovation in AI. Their expertise spans across multiple disciplines, fostering a collaborative environment that nurtures groundbreaking research and real-world applications.
 
 {%
   include button.html
