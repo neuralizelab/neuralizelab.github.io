@@ -1,10 +1,9 @@
 ---
-name: John Doe
+name: Utkarsh Grover
 image: images/photo.jpg
-role: phd
+role: Researcher
 group: alum
 links:
-  github: john-doe
+  github: https://utkarsh-grow123.github.io
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
