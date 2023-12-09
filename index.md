@@ -1,9 +1,9 @@
 ---
 ---
 
-# neuralizelab's Website
+# About 
 
-An engaging 1-3 sentence description of your lab.
+At Neuralize Lab, our mission is to harness the transformative power of artificial intelligence to develop innovative solutions that address complex challenges across various domains. We are committed to advancing the field of AI through pioneering research, collaborative projects, and ethical practices.
 
 {% include section.html %}
 
