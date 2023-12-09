@@ -16,7 +16,7 @@ Our research group is at the forefront of pioneering multimodal applications in 
 {%
   include button.html
   link="research"
-  text="See our publications"
+  text="See Our Research"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -39,7 +39,7 @@ Explore our current projects which are in the developmental phase, where we are 
 {%
   include button.html
   link="projects"
-  text="Browse our projects"
+  text="Browse Our Projects"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -64,7 +64,7 @@ Our team consists of a diverse group of skilled AI researchers, data scientists,
 {%
   include button.html
   link="team"
-  text="Meet our team"
+  text="Meet Our Team"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
