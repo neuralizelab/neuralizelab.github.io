@@ -1,7 +1,7 @@
 ---
 name: Utkarsh Grover
 image: images/photo.jpg
-role: Researcher
+role: phd
 description: Researcher
 group: alum
 links:
