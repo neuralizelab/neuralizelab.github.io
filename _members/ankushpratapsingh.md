@@ -1,6 +1,6 @@
 ---
 name: Ankush Pratap Singh
-image: images/photo.jpg
+image: images/ankush.jpg
 role: pi
 aliases:
   - A. P. Singh
