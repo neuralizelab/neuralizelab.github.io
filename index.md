@@ -34,7 +34,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our research group is at the forefront of pioneering multimodal applications in healthcare and computer vision. We are integrating diverse data types—such as images, text, and sensor data—to enhance diagnostic accuracy and innovate patient care solutions using advanced AI techniques.
 
 {%
   include button.html
@@ -59,7 +59,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Explore our current projects which are in the developmental phase, where we are pushing the boundaries of AI in creating groundbreaking solutions 
 
 {%
   include button.html
