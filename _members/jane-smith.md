@@ -1,19 +1,11 @@
 ---
-name: Jane Smith
+name: Ankush Pratap Singh
 image: images/photo.jpg
 role: pi
 aliases:
-  - J. Smith
-  - J Smith
+  - A. P. Singh
+  - Ankush
 links:
-  home-page: https://janesmith.com
+  home-page: https://ankushpratap95.github.io
   orcid: 0000-0001-8713-9213
 ---
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Faucibus purus in massa tempor nec feugiat nisl pretium fusce.
-Elit at imperdiet dui accumsan.
-Duis tristique sollicitudin nibh sit amet commodo nulla facilisi.
-Vitae elementum curabitur vitae nunc sed velit dignissim sodales.
-Lacinia at quis risus sed vulputate odio ut.
-Magna eget est lorem ipsum.
