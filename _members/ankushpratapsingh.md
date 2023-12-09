@@ -7,5 +7,5 @@ aliases:
   - Ankush
 links:
   home-page: https://ankushpratap95.github.io
-  orcid: 0000-0001-8713-9213
+  
 ---
