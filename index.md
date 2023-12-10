@@ -74,7 +74,7 @@ Our team consists of a diverse group of skilled AI researchers, data scientists,
 
 {%
   include feature.html
-  image="images/project.jpg"
+  image="images/team.jpg"
   link="team"
   title="Our Team"
   text=text
