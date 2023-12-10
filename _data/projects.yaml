@@ -1,22 +1,14 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: Detecting Human Behavioural Cues Using Multi Modalities
   group: featured
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
+  description: The project focuses on detecting depression symptoms using multimodalities, integrating various data types like speech patterns, facial expressions, and text analysis. By leveraging AI, we are developing a comprehensive and nuanced approach to early and accurate detection of depression, enhancing mental health diagnostics and care.
 
-- title: Cool Package
-  subtitle: a subtitle
+- title: Multi Modal Place Recognition
+  
   group: featured
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
+  
+  description: The project aims at recognizing places using a combination of visual and audio inputs. By integrating AI with image and sound analysis, we're developing a system capable of identifying locations from complex sensory data, enhancing navigation and contextual understanding in various applications.
 
 - title: Cool Tutorial
   subtitle: a subtitle
