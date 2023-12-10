@@ -26,7 +26,7 @@ Our research group is at the forefront of pioneering multimodal applications in 
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/research.jpg"
   link="research"
   title="Our Research"
   text=text
@@ -49,7 +49,7 @@ Explore our current projects which are in the developmental phase, where we are 
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/project.jpg"
   link="projects"
   title="Our Projects"
   flip=true
@@ -74,7 +74,7 @@ Our team consists of a diverse group of skilled AI researchers, data scientists,
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/team.jpg"
   link="team"
   title="Our Team"
   text=text
