@@ -7,21 +7,4 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-{% include section.html %}
-
-## Highlighted
-
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
-
-{% include section.html %}
-
-## All
-
-{% include search-box.html %}
-
-{% include search-info.html %}
-
-{% include list.html data="citations" component="citation" style="rich" %}
+We are currently concentrating on harnessing the power of multimodalities in perception to enhance performance in AI applications. Our focus lies in integrating diverse data inputs - including visual, auditory, and textual information - to develop more robust and accurate AI models. This approach is pivotal in advancing areas such as autonomous systems, healthcare diagnostics, and interactive AI. By combining these different modes of perception, our research aims to create AI systems that can understand and interact with the world in a way that is more aligned with human cognition. Our team is dedicated to pushing the boundaries of AI, exploring how these multimodal systems can not only perform tasks more efficiently but also with greater contextual understanding and sensitivity. This multidisciplinary effort is at the heart of our commitment to creating AI solutions that are both innovative and ethically sound.
